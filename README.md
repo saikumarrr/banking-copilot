@@ -1,5 +1,3 @@
-# Project overview, setup guide, and architecture documentation
-
 # Banking AI Copilot (CRAG)
 
 A Banking AI Copilot utilizing the Corrective Retrieval Augmented Generation (CRAG) pattern for high-accuracy retail banking queries. Built with LangChain, FastAPI, and Streamlit.
